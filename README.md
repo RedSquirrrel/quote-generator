@@ -1,1 +1,3 @@
-# quote-generator
+# Quote Generator
+
+### Get your dayli quote :)
